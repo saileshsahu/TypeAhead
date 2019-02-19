@@ -1,0 +1,23 @@
+.cogoport-input {
+  position: absolute;
+  top: 20%;
+  width: 50%;
+  height: 40px;
+  margin: 0% 25%;
+  padding: 1%;
+  font-size: 16px;
+  border: none;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.14);
+  background-color: #ffffff;
+  border-radius: 5px;
+  outline: none;
+}
+
+.cogoport-no-results {
+  position: absolute;
+  top: 30%;
+  width: 50%;
+  margin: 0% 25%;
+  text-align: center;
+  color: #4a4a4a;
+}
