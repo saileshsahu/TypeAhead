@@ -39,7 +39,7 @@ class Filter extends Component {
         return (
             <form>
                 <input
-                    placeholder="Search here"
+                    placeholder="Search a Country"
                     ref={input => this.search = input}
                     onChange={this.handleChange}
                     list="countryList"
